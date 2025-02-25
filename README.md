@@ -54,7 +54,7 @@ Edit
 javac *.java
 Run the Application:
 
-After compiling the files, run the ECommerceApp class:
+# After compiling the files, run the ECommerceApp class:
 nginx
 Copy
 Edit
